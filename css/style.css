@@ -206,3 +206,11 @@ h6 {
     text-align: right;
     font-style: italic;
 }
+
+.photo_grid {
+    display: flex
+}
+
+.photo_gird span {
+    flex: 1;
+}
